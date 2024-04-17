@@ -187,7 +187,7 @@ Copy and complete the code chunk below labeled `fit-a-model-2` in your starter f
 
 * what the `estimate` column values mean with respect to the (1) y-intercept and (2) slope of the model you have fit
 * how many possible values of $\hat{y}$ (`predicted fco2`) are there?
-* how does this compare to the possible values for $\hat{y}$ (`predicted fco2`) for the model you fit in Exercise 6?
+* how does this compare to the possible values for $\hat{y}$ (`predicted fco2`) for the model you fit in Exercise 5?
 * Hint: Think about the range of values for the explanatory variables in each model.
 
 ```{r fit-a-model-2, eval = F}
